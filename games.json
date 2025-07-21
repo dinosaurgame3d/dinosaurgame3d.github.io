@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dinosaur Game",
+        "slug": "dinosaur-game",
+        "image": "/cache/data/image/game/dinosaur-game/dinosaur-game-online-m186x186.webp"
+    },
+    {
+        "name": "Chrome Dino Run",
+        "slug": "chrome-dino-run",
+        "image": "/cache/data/image/game/chrome-dino-run/chrome-dino-run-m186x186.webp"
+    },
+    {
+        "name": "Santa T Rex Run",
+        "slug": "santa-t-rex-run",
+        "image": "/cache/data/image/game/santa-t-rex-run/santa-t-rex-run-m186x186.webp"
+    },
+    {
+        "name": "Pixel Dino Run",
+        "slug": "pixel-dino-run",
+        "image": "/cache/data/image/game/pixel-dino-run/pixel-dino-run-m186x186.webp"
+    },
+    {
+        "name": "Dino Run Adventure",
+        "slug": "dino-run-adventure",
+        "image": "/cache/data/image/game/dino-run-adventure/dino-run-adventure-m186x186.webp"
+    }
+]
