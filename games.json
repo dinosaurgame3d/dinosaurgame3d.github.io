@@ -20,6 +20,11 @@
         "image": "/cache/data/image/game/dino-dash-3d/dino-dash-3d-m186x186.webp"
     },
     {
+        "name": "Pet Runner",
+        "slug": "pet-runner",
+        "image": "/cache/data/image/game/pet-runner/pet-runner-m186x186.webp"
+    },
+    {
         "name": "Chrome Dino Run",
         "slug": "chrome-dino-run",
         "image": "/cache/data/image/game/chrome-dino-run/chrome-dino-run-m186x186.webp"
