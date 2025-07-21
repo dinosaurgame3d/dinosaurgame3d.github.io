@@ -5,6 +5,21 @@
         "image": "/cache/data/image/game/dinosaur-game/dinosaur-game-online-m186x186.webp"
     },
     {
+        "name": "T-Rex AI",
+        "slug": "t-rex-ai",
+        "image": "/cache/data/image/game/t-rex-ai/t-rex-ai-m186x186.webp"
+    },
+    {
+        "name": "Dino Game",
+        "slug": "dino-game",
+        "image": "/cache/data/image/game/dino-game/dino-game-m186x186.webp"
+    },
+    {
+        "name": "Dino Dash 3D",
+        "slug": "dino-dash-3d",
+        "image": "/cache/data/image/game/dino-dash-3d/dino-dash-3d-m186x186.webp"
+    },
+    {
         "name": "Chrome Dino Run",
         "slug": "chrome-dino-run",
         "image": "/cache/data/image/game/chrome-dino-run/chrome-dino-run-m186x186.webp"
